@@ -88,3 +88,4 @@ The README provides a comprehensive overview of the custom `_printf` implementat
 
 
 
+![Capture d'écran 2025-03-26 124222](https://github.com/user-attachments/assets/a362851f-81cb-4ec0-ab89-3e64a3389717)
