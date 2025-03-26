@@ -86,5 +86,5 @@ Lentz
 
 The README provides a comprehensive overview of the custom `_printf` implementation, including its features, usage, compilation instructions, and potential areas for improvement. It serves as a guide for developers who want to understand or contribute to the project.
 
-![Capture d'écran 2025-03-26 124222](https://github.com/user-attachments/assets/e67d4979-cb1e-4b25-89ed-5405b7ec8fa1)
+
 
